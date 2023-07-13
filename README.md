@@ -1,0 +1,2 @@
+# Cranelift Observations
+This is effectively a series of notes on how the various cranelift crates work. Just a heads up there are no guarantees this is 100% accurate - this is just based off what I see, read, & infer.
